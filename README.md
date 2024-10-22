@@ -26,7 +26,7 @@ The main objective of this exercise is to help Lending Club reduce credit losses
 - Seaborn & Matplotlib for visualization
 
 ## Acknowledgements
-- This project was inspired by Upgrad on EDA
+- This project was inspired by Upgrad course
 - This project was based on Exploratory Data Analysis concept.
 
 
